@@ -13125,6 +13125,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 370.84) (xy 107.95 370.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ea688d0-2f7d-4dbc-823c-7080312d031b")
+	)
+	(wire
+		(pts
 			(xy 424.18 153.67) (xy 424.18 156.21)
 		)
 		(stroke
@@ -13372,6 +13382,16 @@
 			(type default)
 		)
 		(uuid "93c55694-5ac5-4bea-8a46-18b2ce94ed2a")
+	)
+	(wire
+		(pts
+			(xy 88.9 368.3) (xy 107.95 368.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93f8783c-b55c-4b83-8339-d9820e5700e5")
 	)
 	(wire
 		(pts
@@ -14565,16 +14585,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 370.84) (xy 107.95 370.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5c6c242-d344-4c7f-be22-5e5d8c0e9e49")
-	)
-	(wire
-		(pts
 			(xy 335.28 292.1) (xy 335.28 289.56)
 		)
 		(stroke
@@ -14672,16 +14682,6 @@
 			(type default)
 		)
 		(uuid "fd3c25f9-fa28-4130-ac8d-0bef6d60c104")
-	)
-	(wire
-		(pts
-			(xy 88.9 368.3) (xy 107.95 368.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd8b6db2-d3eb-407c-b5a1-34564f80d50a")
 	)
 	(wire
 		(pts
@@ -28539,7 +28539,7 @@
 		(uuid "37449738-c5ab-4f07-8917-16cf9cd89bc2")
 	)
 	(label "GPIO36"
-		(at 88.9 370.84 0)
+		(at 88.9 368.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28959,7 +28959,7 @@
 		(uuid "d6fd8507-b75a-4bd1-b749-6b088c20f6c2")
 	)
 	(label "GPIO35"
-		(at 88.9 368.3 0)
+		(at 88.9 370.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
